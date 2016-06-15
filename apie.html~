@@ -60,6 +60,8 @@
         <!-- /.container -->
     </nav>
 
+    </header>
+
     <!-- Page Content -->
     <div class="container">
 
@@ -76,7 +78,7 @@ Jūs čia visada laukiami.
 </p>
             </div>
         </div>
-</div>
+
         <hr>
 
         <!-- Footer -->
